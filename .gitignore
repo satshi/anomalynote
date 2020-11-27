@@ -1,0 +1,17 @@
+*.fdb_latexmk
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.dvi
+*.bbl
+*.blg
+*.synctex.gz
+*.idx
+*.ilg
+*.ind
+anomalynote.pdf
